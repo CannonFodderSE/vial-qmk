@@ -1,0 +1,50 @@
+{
+    "customKeycodes": [
+        {"name": "JS00","title": "JS00","shortName": "JS00"},
+        {"name": "JS01","title": "JS01","shortName": "JS01"},
+        {"name": "JS02","title": "JS02","shortName": "JS02"},
+        {"name": "JS03","title": "JS03","shortName": "JS03"},
+        {"name": "JS04","title": "JS04","shortName": "JS04"},
+        {"name": "JS05","title": "JS05","shortName": "JS05"},
+        {"name": "JS06","title": "JS06","shortName": "JS06"},
+        {"name": "JS07","title": "JS07","shortName": "JS07"},
+        {"name": "JS08","title": "JS08","shortName": "JS08"},
+        {"name": "JS09","title": "JS09","shortName": "JS09"},
+        {"name": "JS10","title": "JS10","shortName": "JS10"},
+        {"name": "JS11","title": "JS11","shortName": "JS11"},
+        {"name": "JS12","title": "JS12","shortName": "JS12"},
+        {"name": "JS13","title": "JS13","shortName": "JS13"},
+        {"name": "JS14","title": "JS14","shortName": "JS14"},
+        {"name": "JS15","title": "JS15","shortName": "JS15"},
+        {"name": "JS16","title": "JS16","shortName": "JS16"},
+        {"name": "JS17","title": "JS17","shortName": "JS17"},
+        {"name": "JS18","title": "JS18","shortName": "JS18"},
+        {"name": "JS19","title": "JS19","shortName": "JS19"},
+        {"name": "JS20","title": "JS20","shortName": "JS20"},
+        {"name": "JS21","title": "JS21","shortName": "JS21"},
+        {"name": "JS22","title": "JS22","shortName": "JS22"},
+        {"name": "JS23","title": "JS23","shortName": "JS23"},
+        {"name": "JS24","title": "JS24","shortName": "JS24"}
+    ],
+    "matrix": {"cols": 5,"rows": 5},
+    "layouts": {"keymap": [
+            [{"x": 12.25},"3,2"],
+            [{"x": 11.25},"3,0",  "3,1","3,3"],
+            [{"x": 12.25},"3,4"],
+            [{"y": 3.75,"x": 10},"4,0"],
+            [{"x": 2},"0,2"],
+            [{"x": 1},"0,0","0,1","0,3"],
+            [{"x": 2},"0,4"],
+            [{"y": 1.25,  "x": 9.5},"4,1","4,2"],
+            [{"y": 1,  "x": 8},"4,3"],
+            [{"x": 12},"4,4"],
+            [{"r": -30,  "y":-10.5,  "x": 1},"1,2"],
+            ["1,0","1,1","1,3"],
+            [{"x": 1},"1,4"],
+            [{"r": -15,"y":-5,"x":6.75  },"2,2"],
+            [{"x": 5.75},"2,0",  "2,1","2,3"],
+            [{"x": 6.75},"2,4"]
+        ]
+    }
+}
+
